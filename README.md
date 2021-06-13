@@ -1,7 +1,7 @@
-🤓 Experienced and Certified Cloud + Data Engineer with 10 + years of experience in Databases, Data Warehousing. 5 + years of experience in Cloud (Azure), 
-Azure Data factory, SQL scripting. 1.5 years of experience in Apache Spark, pyspark, Scala,Azure Synapse, Terraform etc.🤓
+🤓 Experienced and Certified Cloud + Data Engineer with 10 + years of experience in Databases, Data Warehousing. 6 + years of experience in Cloud (Azure,AWS), 
+Database Migrations,Azure Data factory, SQL scripting. 1.5 years of experience in Apache Spark, pyspark, Scala,Azure Synapse, Terraform etc.🤓
 
-🔭 I’m currently working on different ETL projects
+🔭 I’m currently working on Database Migration & ETL projects
 
 🌱 I’m currently learning about Apache Kafka
 
